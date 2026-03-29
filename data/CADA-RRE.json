@@ -1,0 +1,205 @@
+{
+    "014074c9-4e96-4b95-9604-4d64d3dd9c24": {
+        "num_fn": 1,
+        "num_fp": 3,
+        "num_tn": 15,
+        "num_tp": 9,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/014074c9-4e96-4b95-9604-4d64d3dd9c24/"
+    },
+    "18a26906-745b-43b1-93c6-019278cfa216": {
+        "num_fn": 7,
+        "num_fp": 5,
+        "num_tn": 13,
+        "num_tp": 4,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/18a26906-745b-43b1-93c6-019278cfa216/"
+    },
+    "196a03fc-27f4-4781-908c-dab649c08678": {
+        "num_fn": 9,
+        "num_fp": 1,
+        "num_tn": 18,
+        "num_tp": 2,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/196a03fc-27f4-4781-908c-dab649c08678/"
+    },
+    "1e24a4e5-179a-4082-88e6-459c55c1b43a": {
+        "num_fn": 3,
+        "num_fp": 7,
+        "num_tn": 11,
+        "num_tp": 8,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/1e24a4e5-179a-4082-88e6-459c55c1b43a/"
+    },
+    "297b7b2e-c188-47fd-bbc9-738e8a1dfa70": {
+        "num_fn": 9,
+        "num_fp": 0,
+        "num_tn": 19,
+        "num_tp": 2,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/297b7b2e-c188-47fd-bbc9-738e8a1dfa70/"
+    },
+    "2d67e02e-cbb9-48cb-b3af-ef5abd6b361d": {
+        "num_fn": 7,
+        "num_fp": 3,
+        "num_tn": 15,
+        "num_tp": 4,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/2d67e02e-cbb9-48cb-b3af-ef5abd6b361d/"
+    },
+    "37e0f334-872a-4ca2-98e8-efd1b532114a": {
+        "num_fn": 9,
+        "num_fp": 1,
+        "num_tn": 18,
+        "num_tp": 2,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/37e0f334-872a-4ca2-98e8-efd1b532114a/"
+    },
+    "4653e5c2-cbb2-40ae-9e7b-4db9f49cbacb": {
+        "num_fn": 1,
+        "num_fp": 7,
+        "num_tn": 11,
+        "num_tp": 10,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/4653e5c2-cbb2-40ae-9e7b-4db9f49cbacb/"
+    },
+    "47ea8087-80b7-45fe-96e6-a63b7a6879ff": {
+        "num_fn": 3,
+        "num_fp": 7,
+        "num_tn": 11,
+        "num_tp": 8,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/47ea8087-80b7-45fe-96e6-a63b7a6879ff/"
+    },
+    "4e7532ad-d555-4d9e-b295-89df62a29173": {
+        "num_fn": 8,
+        "num_fp": 0,
+        "num_tn": 18,
+        "num_tp": 3,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/4e7532ad-d555-4d9e-b295-89df62a29173/"
+    },
+    "503bd8eb-4653-4cfa-a872-1cfb93cc4201": {
+        "num_fn": 10,
+        "num_fp": 1,
+        "num_tn": 17,
+        "num_tp": 1,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/503bd8eb-4653-4cfa-a872-1cfb93cc4201/"
+    },
+    "555c5cf2-815d-4d91-92e6-970726185be1": {
+        "num_fn": 11,
+        "num_fp": 0,
+        "num_tn": 19,
+        "num_tp": 0,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/555c5cf2-815d-4d91-92e6-970726185be1/"
+    },
+    "5a784d8f-90e0-472d-adb1-6762b01ee5cd": {
+        "num_fn": 11,
+        "num_fp": 1,
+        "num_tn": 17,
+        "num_tp": 0,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/5a784d8f-90e0-472d-adb1-6762b01ee5cd/"
+    },
+    "5f4b4414-46bc-497b-b407-27940acb8138": {
+        "num_fn": 9,
+        "num_fp": 2,
+        "num_tn": 17,
+        "num_tp": 2,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/5f4b4414-46bc-497b-b407-27940acb8138/"
+    },
+    "652e7a85-2242-4de7-ad9d-41844d4bd0c6": {
+        "num_fn": 3,
+        "num_fp": 5,
+        "num_tn": 13,
+        "num_tp": 8,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/652e7a85-2242-4de7-ad9d-41844d4bd0c6/"
+    },
+    "780c7b94-4b76-4ed1-ab7d-93b951ed2031": {
+        "num_fn": 11,
+        "num_fp": 1,
+        "num_tn": 17,
+        "num_tp": 0,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/780c7b94-4b76-4ed1-ab7d-93b951ed2031/"
+    },
+    "7966fd62-b758-442a-b7e7-c5e4a225726b": {
+        "num_fn": 8,
+        "num_fp": 0,
+        "num_tn": 18,
+        "num_tp": 3,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/7966fd62-b758-442a-b7e7-c5e4a225726b/"
+    },
+    "82fa57dd-42b4-4258-b2e7-f70599206183": {
+        "num_fn": 10,
+        "num_fp": 1,
+        "num_tn": 17,
+        "num_tp": 1,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/82fa57dd-42b4-4258-b2e7-f70599206183/"
+    },
+    "a1ea0842-3346-411c-881e-26a3c335e785": {
+        "num_fn": 7,
+        "num_fp": 5,
+        "num_tn": 13,
+        "num_tp": 4,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/a1ea0842-3346-411c-881e-26a3c335e785/"
+    },
+    "bf981658-89c2-41b1-b277-27b071393393": {
+        "num_fn": 10,
+        "num_fp": 1,
+        "num_tn": 17,
+        "num_tp": 1,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/bf981658-89c2-41b1-b277-27b071393393/"
+    },
+    "c4345bcb-219d-4f16-997b-a85c9ed4b37b": {
+        "num_fn": 11,
+        "num_fp": 2,
+        "num_tn": 16,
+        "num_tp": 0,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/c4345bcb-219d-4f16-997b-a85c9ed4b37b/"
+    },
+    "c4923cde-212a-472d-8bff-6a533a00f43e": {
+        "num_fn": 6,
+        "num_fp": 6,
+        "num_tn": 12,
+        "num_tp": 5,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/c4923cde-212a-472d-8bff-6a533a00f43e/"
+    },
+    "c7cf844c-c3f2-42ef-88ab-183078d209a3": {
+        "num_fn": 11,
+        "num_fp": 2,
+        "num_tn": 16,
+        "num_tp": 0,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/c7cf844c-c3f2-42ef-88ab-183078d209a3/"
+    },
+    "dcf59a34-f3f2-4553-acde-f83d30e103a3": {
+        "num_fn": 11,
+        "num_fp": 0,
+        "num_tn": 18,
+        "num_tp": 0,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/dcf59a34-f3f2-4553-acde-f83d30e103a3/"
+    },
+    "e0e9f874-6e01-4cfd-9007-ec5acfac1245": {
+        "num_fn": 8,
+        "num_fp": 8,
+        "num_tn": 11,
+        "num_tp": 3,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/e0e9f874-6e01-4cfd-9007-ec5acfac1245/"
+    },
+    "e9996aa6-cf38-4157-b070-2b9a617d2df2": {
+        "num_fn": 9,
+        "num_fp": 0,
+        "num_tn": 19,
+        "num_tp": 2,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/e9996aa6-cf38-4157-b070-2b9a617d2df2/"
+    },
+    "f2f754db-4d2c-4190-9e98-1b81daeffce8": {
+        "num_fn": 3,
+        "num_fp": 3,
+        "num_tn": 16,
+        "num_tp": 6,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/f2f754db-4d2c-4190-9e98-1b81daeffce8/"
+    },
+    "f4557fcd-c0f5-4428-8080-607d81ff9505": {
+        "num_fn": 10,
+        "num_fp": 1,
+        "num_tn": 17,
+        "num_tp": 1,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/f4557fcd-c0f5-4428-8080-607d81ff9505/"
+    },
+    "ff14b353-ec21-432b-8876-4fbc8ec6477c": {
+        "num_fn": 1,
+        "num_fp": 7,
+        "num_tn": 11,
+        "num_tp": 9,
+        "url": "https://cada-rre.grand-challenge.org/evaluation/ff14b353-ec21-432b-8876-4fbc8ec6477c/"
+    }
+}
